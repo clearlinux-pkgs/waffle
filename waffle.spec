@@ -4,7 +4,7 @@
 #
 Name     : waffle
 Version  : 1.5.2
-Release  : 1
+Release  : 2
 URL      : https://github.com/waffle-gl/waffle/archive/v1.5.2.tar.gz
 Source0  : https://github.com/waffle-gl/waffle/archive/v1.5.2.tar.gz
 Summary  : a library for selecting an OpenGL API and window system at runtime
