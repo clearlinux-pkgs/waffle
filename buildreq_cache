@@ -1,0 +1,10 @@
+1.6.0
+bash-completion-dev
+pkgconfig(bash-completion)
+pkgconfig(egl)
+pkgconfig(gbm)
+pkgconfig(gl)
+pkgconfig(libudev)
+pkgconfig(wayland-client)
+pkgconfig(wayland-egl)
+pkgconfig(x11-xcb)
